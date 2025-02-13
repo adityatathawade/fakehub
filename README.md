@@ -100,6 +100,14 @@ fakehub [OPTIONS]
 
 ---
 
+Features to be added   
+1. Weekday selection
+2. Weekend selection 
+3. custom dates array
+4. custom git commit messages
+
+---
+
 ## 📜 License
 This project is released under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
@@ -110,4 +118,6 @@ This project is released under the **MIT License**. See the [LICENSE](LICENSE) f
 - Open an [issue](https://github.com/lordofwizard/fakehub/issues) if you find bugs or have suggestions.
 
 Enjoy your fake Git history! 😉
+
+
 
